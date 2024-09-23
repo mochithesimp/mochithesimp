@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **React, ASP.NET, Firebase**
 
-⚡ Fun fact **I wanted to marry my PC**
+⚡ Fun fact **No Code - No Bug**
 
  </div>
  
